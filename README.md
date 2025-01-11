@@ -1,1 +1,1 @@
-Cellular Automata Python, all rules
+Cellular Automata Python, prototypes 
